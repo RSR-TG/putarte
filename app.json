@@ -1,5 +1,5 @@
 {
-  "name": "TG URL Uploader",
+  "name": "Putarte",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -14,8 +14,8 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "https://telegram.dog/mizolibrary",
+  "website": "https://library-mizo.blogspot.com",
   "repository": "https://github.com/RSR-TG/putarte",
   "env": {
     "WEBHOOK": {
@@ -40,7 +40,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "1060318977"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
