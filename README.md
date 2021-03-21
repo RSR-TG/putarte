@@ -3,11 +3,7 @@
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
-**My Features**:
-
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
-
-👉 Upload as file from any HTTP link
+Mizo Library
 
 ### Installation
 
@@ -17,7 +13,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSR-TG/putarte)
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+©️2021 @mizolibrary
 
 #### The Hard Way
 
@@ -31,17 +27,14 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [RSR TG info★](https://telegram.dog/rsrtginfo)
+* [Mizo Library](https://telegram.dog/mizolibrary)
+
 
 ## Credits, and Thanks to
 
-* [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-- For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/InFoTelGroup)
+- For FeedBack and Suggestions, please feel free to say in [RSR TG info★](https://telegram.dog/rsrtginfo)
 
 #### LICENSE
 - GPLv3
