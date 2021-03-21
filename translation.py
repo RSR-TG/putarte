@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """Hello,
 This is a Telegram URL Upload Bot!
 
-<b>Please send me any direct download URL link or YouTube video link, i can upload to telegram as File/Video</b>
+<b>Please send me any direct download URL link or YouTube video link, i can upload to telegram as File/Video/mp3</b>
 
 /help for more details..
 
